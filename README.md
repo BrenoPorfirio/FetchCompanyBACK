@@ -51,7 +51,7 @@ Siga abaixo os seguinte passos para execução do código:
 
 ## Detalhes
 
-Essa aplicação foi criada segundo os parâmetros definidos pela empresa HubLocal,
+Essa aplicação foi criada segundo os parâmetros definidos pela empresa FetchCompany,
 seguindo a proposta de:
 - Logar/Criar usuários
 - Criar/Listar/Deletar/Editar empresas (usuário logado)
